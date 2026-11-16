@@ -1,0 +1,70 @@
+{
+  "Python Developer": {
+    "description": "Builds backend services, scripts and automation with Python.",
+    "skills": [
+      {"name": "Python", "tier": "must", "weight": 5, "level": 4},
+      {"name": "Data Structures", "tier": "must", "weight": 4, "level": 3},
+      {"name": "OOP", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Git", "tier": "must", "weight": 3, "level": 3},
+      {"name": "SQL", "tier": "must", "weight": 3, "level": 3},
+      {"name": "APIs", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Web Frameworks", "tier": "good", "weight": 3, "level": 3},
+      {"name": "Testing", "tier": "good", "weight": 2, "level": 2},
+      {"name": "Docker", "tier": "good", "weight": 2, "level": 2}
+    ]
+  },
+  "Data Analyst": {
+    "description": "Turns raw data into insights using SQL, spreadsheets and dashboards.",
+    "skills": [
+      {"name": "SQL", "tier": "must", "weight": 5, "level": 4},
+      {"name": "Excel", "tier": "must", "weight": 4, "level": 4},
+      {"name": "Python", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Statistics", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Data Visualization", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Pandas", "tier": "good", "weight": 3, "level": 3},
+      {"name": "Communication", "tier": "good", "weight": 3, "level": 3},
+      {"name": "Git", "tier": "good", "weight": 1, "level": 2}
+    ]
+  },
+  "AI Engineer": {
+    "description": "Builds and ships ML and LLM-powered applications.",
+    "skills": [
+      {"name": "Python", "tier": "must", "weight": 5, "level": 4},
+      {"name": "Machine Learning", "tier": "must", "weight": 5, "level": 3},
+      {"name": "Deep Learning", "tier": "must", "weight": 4, "level": 3},
+      {"name": "NumPy", "tier": "must", "weight": 3, "level": 3},
+      {"name": "Pandas", "tier": "must", "weight": 3, "level": 3},
+      {"name": "LLMs", "tier": "must", "weight": 4, "level": 3},
+      {"name": "APIs", "tier": "good", "weight": 3, "level": 3},
+      {"name": "Git", "tier": "good", "weight": 2, "level": 2},
+      {"name": "Docker", "tier": "good", "weight": 2, "level": 2},
+      {"name": "Cloud", "tier": "good", "weight": 2, "level": 2}
+    ]
+  },
+  "Data Scientist": {
+    "description": "Builds statistical and ML models to answer business questions.",
+    "skills": [
+      {"name": "Python", "tier": "must", "weight": 5, "level": 4},
+      {"name": "Statistics", "tier": "must", "weight": 5, "level": 4},
+      {"name": "Machine Learning", "tier": "must", "weight": 5, "level": 4},
+      {"name": "SQL", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Pandas", "tier": "must", "weight": 4, "level": 4},
+      {"name": "Data Visualization", "tier": "must", "weight": 3, "level": 3},
+      {"name": "Deep Learning", "tier": "good", "weight": 3, "level": 2},
+      {"name": "Communication", "tier": "good", "weight": 3, "level": 3}
+    ]
+  },
+  "Web Developer": {
+    "description": "Builds responsive websites and web apps.",
+    "skills": [
+      {"name": "HTML/CSS", "tier": "must", "weight": 5, "level": 4},
+      {"name": "JavaScript", "tier": "must", "weight": 5, "level": 4},
+      {"name": "React", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Git", "tier": "must", "weight": 3, "level": 3},
+      {"name": "APIs", "tier": "must", "weight": 4, "level": 3},
+      {"name": "Databases", "tier": "good", "weight": 3, "level": 2},
+      {"name": "Web Frameworks", "tier": "good", "weight": 3, "level": 2},
+      {"name": "Testing", "tier": "good", "weight": 2, "level": 2}
+    ]
+  }
+}
